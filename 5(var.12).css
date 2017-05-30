@@ -1,0 +1,68 @@
+#headerleft{
+background:white;
+font-family: 'PT Serif', serif;
+width: 200px;
+height: 200px;
+margin:5px;
+padding:5px;
+}
+#headercenter{
+background:white;
+width:200px;
+height:200px;
+position:absolute;
+left:200px;
+top:0px;
+margin:5px;
+padding:5px;
+}
+#headerright{
+background:white;
+width:200px;
+height:200px;
+position:absolute;
+left:400px;
+top:0px;
+margin:5px;
+padding:5px;
+}
+#imageleft{
+background:white;
+background-image: url(12.jpg);
+width:400px;
+height:400px;
+}
+#textright{
+background:#74B1DC;
+width:200px;
+height:600px;
+position:absolute;
+left:400px;
+top:200px;
+margin:5px;
+padding:5px;
+}
+#textleft{
+background:white;
+width:200px;
+height:200px;
+margin:5px;
+padding:5px;
+}
+#textcenter{
+background:white;
+width:180px;
+height:180px;
+border: 1px solid blue;
+margin: 3px;
+position:absolute;
+left:200px;
+top:620px;
+margin:5px;
+padding:5px;
+}
+body{
+margin:0px;
+overflow:scroll;
+}
+     
