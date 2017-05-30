@@ -1,6 +1,6 @@
 #headerleft{
 background:white;
-font-family: 'PT Serif', serif;
+font-family: 'Playfair Display', serif;
 width: 200px;
 height: 200px;
 margin:5px;
@@ -8,6 +8,7 @@ padding:5px;
 }
 #headercenter{
 background:white;
+font-family: 'Playfair Display', serif;
 width:200px;
 height:200px;
 position:absolute;
@@ -18,6 +19,7 @@ padding:5px;
 }
 #headerright{
 background:white;
+font-family: 'Playfair Display', serif;
 width:200px;
 height:200px;
 position:absolute;
