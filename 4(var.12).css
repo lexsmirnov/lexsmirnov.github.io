@@ -4,6 +4,7 @@ color:white;
 width:715px;
 height:100px;
 text-align:center;
+font-family: 'Playfair Display', serif;    
 }
 #levoe{
 background: #00CC00;
@@ -13,12 +14,14 @@ position:absolute;
 text-align:center;
 left:715px;
 top:0px;
+font-family: 'Playfair Display', serif;    
 }
 #menu{
 background:#7D2817;
 width:190px;
 height:300px;
 text-align:center;
+font-family: 'Playfair Display', serif;    
 }
 #content{
 background:#E89121;
@@ -28,6 +31,7 @@ position:absolute;
 text-align:center;
 left:190px;
 top:100px;
+font-family: 'Playfair Display', serif;    
 }
 #footer{
 background:#373B3B;
@@ -35,9 +39,10 @@ color:white;
 width:715px;
 height:30px;
 text-align:center;
+font-family: 'Playfair Display', serif;    
 }
 body{
 margin:0px;
-font-family: "serif" Times New Roman;
+font-family: 'Playfair Display', serif;
 }
      
