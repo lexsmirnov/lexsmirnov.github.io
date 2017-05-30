@@ -1,0 +1,26 @@
+ table {
+        border-collapse: collapse;
+    }
+    table th,
+    table td {
+		width: 500px;
+        padding: 0.5px;
+        border: 1px solid #000;
+        text-align: center;
+    }
+.menu{
+	background-color: #FFF79A;
+}
+.heading{
+	background-color: #78D492;
+}
+.content{
+	background-color: #2A6F75;
+}
+.avtor{
+	background-color: #32254A;
+}
+body{
+	background-color: #171A26;
+	font: serif;
+}
