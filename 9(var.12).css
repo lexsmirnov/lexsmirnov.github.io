@@ -1,0 +1,70 @@
+	h3 {
+	text-align:center;
+	}
+	p {
+	text-align:center;
+	}
+	.logo{
+		text-align:center;
+		}
+	.normal{
+	font-family: 'Kumar One', cursive;
+	color:black;
+	font-size:100%;
+	align:center;
+	text-align:center;
+		}	
+	#name{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 100%;
+		text-align:center;
+			}
+	#surname{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#serial{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 100%;
+		text-align:center;
+		}
+	#number{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#date{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 100%;
+		text-align:center;
+			}
+	#time{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#gate{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 100%;
+		text-align:center;
+			}
+	#seat{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+	}
+	#flight{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 100%;
+		text-align:center;
+			}

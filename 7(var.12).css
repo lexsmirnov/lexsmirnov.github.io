@@ -1,0 +1,83 @@
+	
+	.c {
+    border: 1px solid #333; /* Рамка */
+    display: inline-block;
+    padding: 5px 15px; /* Поля */
+    text-decoration: none; /* Убираем подчёркивание */
+    color: #000; /* Цвет текста */
+  }
+   .c:hover {
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Тень */
+    background: linear-gradient(to bottom, #fcfff4, #e9e9ce); /* Градиент */
+    color: #a00;
+	}
+	h3 {
+	text-align:center;
+	}
+	p {
+	text-align:center;
+	}
+	.logo{
+		text-align:center;
+		}
+	.normal{
+	font-family: 'Kumar One', cursive;
+	color:black;
+	font-size:200%;
+	align:center;
+	text-align:center;
+		}	
+	#name{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 150%;
+		text-align:center;
+			}
+	#surname{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#serial{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 150%;
+		text-align:center;
+		}
+	#number{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#date{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 150%;
+		text-align:center;
+			}
+	#time{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+			}
+	#gate{
+		font-family: 'Kumar One', cursive;
+		color: green;
+		font-size: 150%;
+		text-align:center;
+			}
+	#seat{
+		font-family: 'Kumar One', cursive;
+		color: blue;
+		font-size: 100%;
+		text-align:center;
+	}
+	#flight{
+		font-family: 'Kumar One', cursive;
+		color: red;
+		font-size: 150%;
+		text-align:center;
+			}
