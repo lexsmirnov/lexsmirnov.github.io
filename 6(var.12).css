@@ -1,0 +1,46 @@
+.p1 {
+	font-variant: small-caps;
+	font-family: 'Merriweather', serif;
+		}
+	.line {
+		margin: 0 auto;
+		width: 1210px;
+		text-align:center;
+		}
+	.container {
+		margin: 0 auto;
+		width: 1210px;
+		font-variant: small-caps;
+		font-family: 'Merriweather', serif;
+		
+		}
+	.column { 
+		float: left;
+		margin-right: 10px;
+		overflow: hidden;
+		width: 50px;
+			}	
+	.last { margin-right: 0; }
+	
+	.clearfix:after, .container:after{
+		content: ".";
+		display: block;
+		height: 0;
+		clear: both;
+		visibility: hidden;
+			}
+
+		.clearfix, .container { display: inline-block; }
+
+		* html .clearfix, * html .container {height: 1%;}
+		.clearfix, .container {display: block;}
+	.span-1 { width: 600px;}
+	.span-2 { width: 600px; margin-right: 0;}
+	
+		.wrapper {
+			margin: 0 auto;
+			width: 1210px;
+}
+		.overlay {
+		background: url(bg.jpg);
+			}
