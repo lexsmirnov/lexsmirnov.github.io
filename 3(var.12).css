@@ -3,7 +3,6 @@
     }
     table th,
     table td {
-		width: 500px;
         padding: 0.5px;
         border: 1px solid #000;
         text-align: center;
@@ -13,9 +12,11 @@
 }
 .heading{
 	background-color: #78D492;
+        width: 350px;
 }
 .content{
 	background-color: #2A6F75;
+	width: 350px;
 }
 .avtor{
 	background-color: #32254A;
